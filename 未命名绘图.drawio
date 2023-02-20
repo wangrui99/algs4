@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-18T01:54:35.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.46" etag="Up34HUlZuSlYtsjjFoBC" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-20T11:43:30.271Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50" etag="1aBvuy9cePBc9q876z8P" version="20.8.20" type="github">
   <diagram name="第 1 页" id="0mPGPWmxAc0x_bvWb5pE">
     <mxGraphModel dx="1050" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,28 +8,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AxY4uTv37RIyDxMi8wGr-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;数据采集&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AxY4uTv37RIyDxMi8wGr-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AxY4uTv37RIyDxMi8wGr-2" target="AxY4uTv37RIyDxMi8wGr-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AxY4uTv37RIyDxMi8wGr-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;归一化&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AxY4uTv37RIyDxMi8wGr-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AxY4uTv37RIyDxMi8wGr-4" target="AxY4uTv37RIyDxMi8wGr-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AxY4uTv37RIyDxMi8wGr-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;CNN-LSTM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AxY4uTv37RIyDxMi8wGr-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AxY4uTv37RIyDxMi8wGr-6" target="AxY4uTv37RIyDxMi8wGr-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AxY4uTv37RIyDxMi8wGr-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;模型训练&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AxY4uTv37RIyDxMi8wGr-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;保存模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
